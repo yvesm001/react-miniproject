@@ -7,7 +7,6 @@ const Footer = () => {
         alt="GitHub Logo"
       />
       <a href="https://github.com/yvesm001/react-miniproject" target="_blank">
-        {" "}
         Github Repository
       </a>
     </footer>
